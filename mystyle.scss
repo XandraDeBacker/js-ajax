@@ -1,0 +1,21 @@
+//  IN DE TERMINAL DOEN VOOR GEBRUIK:
+//xandra@HP-EliteBook-840-G1:~/Desktop/becode_projects/js-ajax$ sass --watch mystyle.scss:mystyle.css
+// Compiled mystyle.scss to mystyle.css.
+// Sass is watching for changes. Press Ctrl-C to stop.
+//
+// Compiled mystyle.scss to mystyle.css.
+
+
+
+//Example from: https://www.w3schools.com/sass/
+/* Define standard variables and values for website */
+$bgcolor: lightblue;
+$textcolor: darkblue;
+$fontsize: 18px;
+
+/* Use the variables */
+body {
+  background-color: $bgcolor;
+  color: $textcolor;
+  font-size: $fontsize;
+}
